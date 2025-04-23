@@ -122,4 +122,5 @@ Tech Lead at [Neurolov](neurolov.ai)
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/KNIGHTISH/KNIGHTISH/output/snake.svg" alt="Snake animation" />
+![snake gif](https://yourusername.github.io/yourrepository/github-contribution-grid-snake.svg)
+
