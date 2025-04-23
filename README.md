@@ -122,5 +122,5 @@ Tech Lead at [Neurolov](neurolov.ai)
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![snake gif](https://nitishmeswal.github.io/nitishmeswal/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nitishmeswal/nitishmeswal/blob/output/dist/github-snake.svg)
 
