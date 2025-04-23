@@ -122,7 +122,7 @@ Tech Lead at [Neurolov](neurolov.ai)
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![snake gif](https://github.com/nitishmeswal/nitishmeswal/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/KNIGHTISH/KNIGHTISH/output/snake.svg" alt="Snake animation" />
   
 
 
@@ -150,5 +150,4 @@ Tech Lead at [Neurolov](neurolov.ai)
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
