@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}  # Use the token from GitHub secrets for authentication
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -29,3 +31,4 @@ jobs:
           message: 'Generated snake animation'
           add: 'dist/*'  # Commit all files from the dist directory
           branch: output  # Push to the output branch
+          token: ${{ secrets.GH_TOKEN }}  # Authenticate using the token stored in GitHub secrets
