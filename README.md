@@ -123,31 +123,3 @@ Tech Lead at [Neurolov](neurolov.ai)
 <table><tr><td valign="top" width="50%">
 
 <img src="https://raw.githubusercontent.com/KNIGHTISH/KNIGHTISH/output/snake.svg" alt="Snake animation" />
-  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-
