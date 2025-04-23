@@ -77,7 +77,7 @@ Immersed in cryptocurrency development,Dapps,NFT projects
 
 
 ### Current Focus  
-Tech Lead at [Neurolov](neurolov.ai)  
+Tech Lead at [Neurolov](https://neurolov.ai/)  
   
 
   
