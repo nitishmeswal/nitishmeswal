@@ -1,7 +1,7 @@
 ## KNIGHTISH  
   
 
-- ### Blockchain Developer | Stoic Explorer  
+- ### Blockchain & Full Stack Developer | Stoic Explorer  
   
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79A31&width=435&lines=Bridging+the+gap+from+idea+to+code" alt="Typing SVG" />
